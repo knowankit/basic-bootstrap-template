@@ -1,2 +1,2 @@
-# starter-template
-A simple template using HTML5 and Bootstrap4
+# StartUpTemplate
+A basic template for representing any startup company
